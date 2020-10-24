@@ -1,4 +1,4 @@
-# Projetos Java
+# Projetos Flutter
 Neste repositório contém projetos realizados em <b>Flutter</b>.
 
 [![NPM Version][npm-image]][npm-url]
